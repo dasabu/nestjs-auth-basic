@@ -42,7 +42,7 @@ This project is an authentication API built using NestJS, Prisma, and JWT. It pr
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/hiimdaxd/nestjs-auth-basic.git
 cd your-repo
 ```
 
